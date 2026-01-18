@@ -1,4 +1,4 @@
-# 🧠 Great Minds of Silicon Valley – Random Bio API
+# Great Minds of Silicon Valley – Random Bio API
 
 A lightweight **Node.js + Express REST API** that serves **random brief biographies of influential Silicon Valley tech leaders** on every request.
 
